@@ -1,0 +1,10 @@
+{
+  "name": "awesome-tools",
+  "version": "1.0.0",
+  "description": "Awesome Tools MCP server: search curated SaaS & AI tools, submit your product for a free dofollow backlink or featured launch, and verify badge links.",
+  "mcpServers": {
+    "awesome-tools": {
+      "httpUrl": "https://awesome.tools/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "awesome-tools",
+  "version": "1.0.0",
+  "description": "Search curated SaaS & AI tools on Awesome Tools, submit your own product for a free dofollow backlink or featured launch, and verify badge links.",
+  "author": {
+    "name": "Awesome Tools",
+    "url": "https://awesome.tools"
+  },
+  "homepage": "https://awesome.tools",
+  "repository": "https://github.com/Illyism/awesome-tools-mcp",
+  "keywords": ["saas", "ai-tools", "directory", "seo", "backlinks", "mcp"],
+  "logo": "assets/logo.svg"
+}

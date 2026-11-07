@@ -1,0 +1,17 @@
+{
+  "name": "awesome-tools-mcp",
+  "description": "The Awesome Tools MCP server and skill for searching curated SaaS & AI tools and submitting your own product.",
+  "owner": {
+    "name": "Awesome Tools",
+    "url": "https://awesome.tools"
+  },
+  "plugins": [
+    {
+      "name": "awesome-tools",
+      "source": "./",
+      "description": "Search curated SaaS & AI tools on Awesome Tools, submit your own product for a free dofollow backlink or featured launch, and verify badge links.",
+      "category": "productivity",
+      "tags": ["saas", "ai-tools", "directory", "seo", "mcp"]
+    }
+  ]
+}

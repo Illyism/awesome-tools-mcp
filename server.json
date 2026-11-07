@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "tools.awesome/mcp",
+  "title": "Awesome Tools",
+  "description": "Search curated SaaS & AI tools, submit your product, and verify backlink badges from any AI agent.",
+  "version": "1.0.0",
+  "websiteUrl": "https://awesome.tools",
+  "repository": {
+    "url": "https://github.com/Illyism/awesome-tools-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://awesome.tools/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://awesome.tools/mcp"
+    }
+  ]
+}
